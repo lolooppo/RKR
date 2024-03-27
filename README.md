@@ -1,1 +1,1 @@
-Assignments during my Autonomous Multiagent Systems college course.
+#RKR_Assignments.
